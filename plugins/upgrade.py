@@ -23,7 +23,7 @@ async def upgrade(bot,update):
 	Pay Using Upi I'd `hxbots@sbi`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Kirodewal"""
+        Payment To Admin @Pirate_King_Luffy_Bot"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("Admin",url = "https://t.me/Pirate_King_Luffy_Bot")], 
         			[InlineKeyboardButton("Phone Pay",url = "https://t.me/Pirate_King_Luffy_Bot"),
@@ -50,10 +50,10 @@ async def upgradecm(bot,message):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `HxBots@sbi`
+	Pay Using Upi I'd `biswajit.5@paytm`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Kirodewal"""
+        Payment To Admin @Pirate_King_Luffy_Bot"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("Admin",url = "https://t.me/Pirate_King_Luffy_Bot")], 
         			[InlineKeyboardButton("Phone Pay",url = "https://t.me/Pirate_King_Luffy_Bot"),
